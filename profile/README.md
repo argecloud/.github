@@ -1,7 +1,9 @@
 <img src="https://img.shields.io/static/v1?label=OpenSource&message=Project&color=green?style=plastic&logo=git" /> <img src="https://img.shields.io/static/v1?label=USS&message=Cloud&color=black?style=plastic&logo=php" /> <img src="https://img.shields.io/static/v1?label=Solo&message=Developer&color=green?style=plastic&logo=github" /> 
 <img src="https://img.shields.io/badge/Solo-Development-red"> <img src="https://img.shields.io/badge/ViraXis_Platform-Confirmed-blue">
 
-<img width="505" height="76" alt="136dda118b11232768e5f3a498b02e08" src="https://github.com/user-attachments/assets/349cb38b-6fbd-47cd-a536-00c559338cab" />
+<img width="522" height="76" alt="8c11022df5a9f6e07c6b370293c5f773" src="https://github.com/user-attachments/assets/7ce7bf38-cc28-465a-aef3-1eda7726fc95" />
+
+
 
 
 # USS(Update-Upload System) ARGECloud for users <img src="https://img.shields.io/badge/Status-In_development-black">
